@@ -6,8 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="teste006 combo básico" />
         <module name="teste 005 text field_text area" />
+        <module name="teste 007" />
         <module name="teste004" />
         <module name="teste 006" />
       </profile>
