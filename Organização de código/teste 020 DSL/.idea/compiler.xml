@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="teste10" />
+        <module name="teste 009 link" />
+        <module name="teste004" />
+        <module name="teste 013 alert prompt" />
+        <module name="teste 014" />
+        <module name="teste 015" />
+        <module name="teste 020 DSL" />
+        <module name="teste 012" />
+        <module name="teste 008 Botão" />
+        <module name="teste 011" />
+        <module name="teste 005 text field_text area" />
+        <module name="teste 007" />
+        <module name="teste 018" />
+        <module name="teste 016" />
+        <module name="teste 006" />
+        <module name="teste 017" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
