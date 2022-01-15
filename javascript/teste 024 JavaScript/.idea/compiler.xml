@@ -6,8 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="teste001 pegar nome google" />
-        <module name="teste002" />
+        <module name="CursoSelenium" />
+        <module name="teste 024 JavaScript" />
       </profile>
     </annotationProcessing>
   </component>
